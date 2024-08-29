@@ -1,4 +1,4 @@
-# 📝 To-Do App Project 📝
+# 📝 To-Do App Project Using React.JS📝
 
 🎉 Welcome to the **To-Do App** project! 🎉 This dynamic and interactive to-do list application 🗒️ is built using **ReactJS** ⚛️. It allows users 👥 to add 📥 new tasks ✅ and delete ❌ tasks by clicking on them. With the help of **React-Bootstrap** 🎨, the app is styled elegantly for a great user experience. 🚀
 
